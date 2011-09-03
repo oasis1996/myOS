@@ -6,6 +6,7 @@
 //  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 //AA
+//YY
 #import <UIKit/UIKit.h>
 
 @interface myOSAppDelegate : NSObject <UIApplicationDelegate> {
